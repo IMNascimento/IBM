@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+ComputeVision/classificador/data/
+ComputeVision/classificador/raw/
 # Distribution / packaging
 .Python
 build/
